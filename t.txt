@@ -2,3 +2,4 @@ aaaaa
 bbbb
 ccc
 branch1
+bug fixed
